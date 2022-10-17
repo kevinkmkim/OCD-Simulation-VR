@@ -1,1 +1,1 @@
-# OCD-Simulation-VR
+# OCD Simulation VR
